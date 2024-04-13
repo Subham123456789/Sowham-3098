@@ -3,11 +3,13 @@
 ![SB](https://github.com/Sowham-3098/Sowham-3098/assets/95470604/4e14b11c-472d-4979-a9fd-5177660d42be)
 
 
-<h1 align="center">Hi , I'm Sowham Bhuin</h1>
+<h1 align="center">Hi , I'm Subham Nayak</h1>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;React+Native+Android+Developer;Graphic+Designer;Open+Source+Contributor">
 </div >
+
+
 <h2 align="center">Student of Jalpaiguri Government Engineering College (Autonomous)..</h2>
 
 <img align="right" alt="Coding" width="350" src="output-onlinegiftools (1).gif"/>
